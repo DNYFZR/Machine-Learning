@@ -1,7 +1,7 @@
 #Gradient Boosting Regression
 #Link: https://scikit-learn.org/stable/auto_examples/ensemble/plot_gradient_boosting_regression.html#sphx-glr-auto-examples-ensemble-plot-gradient-boosting-regression-py
 
-import sklearn, numpy as np, matplotlib.pyplot as plt
+import numpy as np, matplotlib.pyplot as plt
 from sklearn import datasets, ensemble
 from sklearn.inspection import permutation_importance
 from sklearn.metrics import mean_squared_error
